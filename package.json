@@ -1,0 +1,23 @@
+{
+  "name": "rskills-week2-nftstakingrewardsandnftallowlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puneetkaura/Rskills-Week2-NFTStakingRewardsandNFTallowList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puneetkaura/Rskills-Week2-NFTStakingRewardsandNFTallowList/issues"
+  },
+  "homepage": "https://github.com/puneetkaura/Rskills-Week2-NFTStakingRewardsandNFTallowList#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  }
+}
